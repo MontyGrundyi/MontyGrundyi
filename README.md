@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MontyGrundyi
-- 👀 I’m interested in Python, Data Science and Web Development
-- 🌱 I’m currently learning python, selenium, HTML, CSS and Javascript
+- 👀 I’m interested in QA Automation, Python, Data Science and Web Development
+- 🌱 I’m currently learning QA Automation, python, selenium, HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on python, DS and Web dev
 - 📫 How to reach me 
 
